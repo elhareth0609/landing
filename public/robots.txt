@@ -1,0 +1,7 @@
+# Allow all crawlers access to everything
+User-agent: *
+Allow: /
+
+# Optional: Disallow private or irrelevant paths
+Disallow: /admin/
+Disallow: /login/
